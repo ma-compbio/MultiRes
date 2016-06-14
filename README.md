@@ -9,9 +9,9 @@ sequence. MultiRes is free and open-source software. Code included in it may be
 used in part or full by others.
 
 ## Usage
-<code> . MultiRes.sh `<gene families>` `<synteny blocks>` `<tree>` \
-              `<CAR file>` `<copy number threshold>` \
-              `<segment length>` `<window length>` `<output dir>`\
+<code> . MultiRes.sh `<gene families>` `<synteny blocks>` `<tree>` 
+              `<CAR file>` `<copy number threshold>` 
+              `<segment length>` `<window length>` `<output dir>`
 </code>
 
 ## Requirements
