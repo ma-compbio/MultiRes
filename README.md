@@ -40,10 +40,10 @@ Detailed explanation:
 2. The gene families must be specified in the inferCARs format, which is as
    follows.
 
-   `><gene_id>`
-   `<species_name>.<chromosome_name>:<start_position>-<stop_position> <orientation>`
-   .
-   .
+   `><gene_id>`\\
+   `<species_name>.<chromosome_name>:<start_position>-<stop_position> <orientation>`\\
+   .\\
+   .\\
      
     Here <gene_id>,<start_position> and <stop_position>  must be integers, and
     <orientation> must be one of '+' or '-'. The rest are strings.
