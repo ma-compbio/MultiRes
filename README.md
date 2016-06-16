@@ -38,7 +38,8 @@ Detailed explanation:
    lengths may be specified.  The ancestor must be given the name '@'.
 
 2. The gene families must be specified in the inferCARs format, which is as
-   follow.s
+   follows.
+
    `><gene_id>`
    `<species_name>.<chromosome_name>:<start_position>-<stop_position> <orientation>`
    .
