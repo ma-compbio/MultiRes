@@ -63,7 +63,7 @@ Detailed explanation:
 
 5. The copy number threshold is used to filter the gene families by excluding 
    those families which have high ancestral copy numbers, as computed by 
-   Sankoff-Roussea parsimony (Csuros 2012).
+   Sankoff-Roussea parsimony (Csuros 2008).
 
 6. Segment length
 7. Window length
@@ -96,3 +96,17 @@ localization label '0'. A subsequence which is bordered by '|' on both sides is
 understood to be in the correct position, but with missing adjacencies
 connecting it to the two subsequences flanking it. The '$' marks the end of the
 CAR.
+
+## References
+
+<ol>
+<li> Alekseyev, Max, and Pavel A. Pevzner. "Breakpoint graphs and ancestral
+genome reconstructions." Genome research (2009): gr-082784. </li>
+<li> Csűrös, Miklós. "Ancestral reconstruction by asymmetric Wagner parsimony
+over continuous characters and squared parsimony over distributions."
+Comparative Genomics. Springer Berlin Heidelberg, 2008. 72-86. </li>
+<li> Jones, Bradley R., et al. "ANGES: reconstructing ANcestral GEnomeS maps."
+Bioinformatics 28.18 (2012): 2388-2390. </li>
+<li> Maňuch, Ján, et al. "Linearization of ancestral multichromosomal genomes."
+BMC bioinformatics 13.Suppl 19 (2012): S11. </li>
+</ol>
